@@ -12,5 +12,3 @@ ReactDOM.render(
     <App />,
     document.querySelector('#root')
 );
-
-// test commit
